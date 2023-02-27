@@ -12,7 +12,7 @@ import java.util.List;
  * @date 2023-02-27 14:07:14
  * @apiNote
  */
-public class Test {
+public class Test1 {
 
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
