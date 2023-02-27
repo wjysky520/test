@@ -18,6 +18,10 @@ public class Test1 {
         List<Integer> list = new ArrayList<>();
         list.add(1111111);
         list.add(2222222);
+        list.add(444444);
+        list.add(555555);
+        list.add(666666);
+        list.add(777777);
         list.add(555555555);
         list.add(5666666);
         list.add(33);
