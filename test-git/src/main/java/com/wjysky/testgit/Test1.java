@@ -22,6 +22,10 @@ public class Test {
         list.add(555555);
         list.add(666666);
         list.add(777777);
+        list.add(555555555);
+        list.add(5666666);
+        list.add(33);
+        list.add(44);
         list.add(55);
         list.add(21);
         list.add(22);
@@ -46,8 +50,6 @@ public class Test {
         list.add(83);
         list.add(94);
         list.add(105);
-        list.add(77777);
-        list.add(88888);
         System.out.println(JSON.toJSONString(list));
     }
 }
