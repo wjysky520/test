@@ -48,7 +48,7 @@ public class Test1 {
         list.add(61);
         list.add(72);
         list.add(83);
-        list.add(94);
+        list.add(999);
         list.add(105);
         System.out.println(JSON.toJSONString(list));
     }
